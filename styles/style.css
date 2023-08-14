@@ -1,0 +1,31 @@
+/* text color, text alignment,text decoration,font size, font family, font-style */
+
+
+
+h3 {
+  color: orange;
+}
+h5 {
+  color: skyblue;
+}
+h2 {
+  color: orangered;
+}
+a {
+  text-decoration: none;
+}
+span {
+  text-decoration: underline;
+}
+p {
+  font-style: italic;
+  font-weight: 400;
+  font-family: "Tilt Prism", cursive;
+}
+h1{
+text-align: center;
+font-size: 50px;
+}
+div{
+    text-align: center;
+}
